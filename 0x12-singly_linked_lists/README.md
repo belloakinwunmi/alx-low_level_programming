@@ -1,1 +1,1 @@
-This project is about linked lists
+this project is about linked lists
